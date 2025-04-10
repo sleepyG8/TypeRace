@@ -1,0 +1,1 @@
+Typing game using advanced time tracking down to the milisecond. I made this while exploring the QueryPerformaceCounter from the Windows Api. It started as a stopwatch but here is a typing game because a stopwatch was too easy. written in C of course 
